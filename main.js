@@ -12,3 +12,6 @@ var function multiplicacion(a, b){
 var function division(a, b){
 	return a/b;
 }
+var function potencia(a, b){
+	return a^b;
+}
